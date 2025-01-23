@@ -1,0 +1,68 @@
+<div class="stats stats-vertical shadow" style="display: flex; flex-direction: column; align-items: flex-start; align-self: stretch; border-radius: var(--u-borderRadius-s, 8px);
+background: var(--color-base-base-100, #FFF); box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);">
+  
+  <div class="stat"  style="display: flex; justify-content: space-between; align-items: center; align-self: stretch;padding: var(--u-spacing-5, 20px);">
+   <div class="stat-infos">
+      <div class="stat-title">Customer Acquisition Cost</div>
+      <div class="stat-value text-primary">$12,834</div>
+      <div class="stat-desc">21% more than last month</div>
+    </div>
+    <svg xmlns="http://www.w3.org/2000/svg" width="50" height="31" viewBox="0 0 50 31" fill="none">
+      <g opacity="0.3" filter="url(#filter-green)">
+        <path d="M5 26L10.0704 19.5714L14.5775 25.2857L20.7746 6L24.7183 20.2857L28.662 12.4286L31.4789 19.5714H34.8592L38.2394 25.2857L45 24.5714" stroke="#116932" />
+      </g>
+    </svg>
+  </div>
+
+   <div class="stat"  style="display: flex; justify-content: space-between; align-items: center; align-self: stretch; padding: var(--u-spacing-5, 20px); border-top: 1px solid rgba(228, 228, 231, 0.40);">
+    <div class="stat-infos">
+      <div class="stat-title">Customer Lifetime Value</div>
+      <div class="stat-value text-primary">$12,834</div>
+      <div class="stat-desc">21% more than last month</div>
+    </div>
+     <svg xmlns="http://www.w3.org/2000/svg" width="50" height="30" viewBox="0 0 50 30" fill="none">
+      <g opacity="0.3" filter="url(#filter-red)">
+        <path d="M5 22.7143L9.57143 18.1429L19.8571 25L26.7143 15.8571L31.2857 18.7143L34.1429 5L38.1429 22.7143L45 23.8571" stroke="#CF1322" />
+      </g>
+    </svg>
+  </div>
+
+   <div class="stat"  style="display: flex; justify-content: space-between; align-items: center; align-self: stretch; padding: var(--u-spacing-5, 20px); border-top: 1px solid rgba(228, 228, 231, 0.40);">
+    <div class="stat-infos">
+      <div class="stat-title">LTV:CAC Ratio</div>
+      <div class="stat-value text-primary">$12,834</div>
+      <div class="stat-desc">21% less than last month</div>
+    </div>
+    <svg xmlns="http://www.w3.org/2000/svg" width="50" height="30" viewBox="0 0 50 30" fill="none">
+      <g opacity="0.3" filter="url(#filter-red)">
+        <path d="M5 22.7143L9.57143 18.1429L19.8571 25L26.7143 15.8571L31.2857 18.7143L34.1429 5L38.1429 22.7143L45 23.8571" stroke="#CF1322" />
+      </g>
+    </svg>
+  </div>
+
+   <div class="stat"  style="display: flex; justify-content: space-between; align-items: center; align-self: stretch; padding: var(--u-spacing-5, 20px); border-top: 1px solid rgba(228, 228, 231, 0.40); ">
+    <div class="stat-infos">
+      <div class="stat-title">Feature Usage Metric</div>
+      <div class="stat-value text-primary">$12,834</div>
+      <div class="stat-desc">21% less than last month</div>
+    </div>
+         <svg xmlns="http://www.w3.org/2000/svg" width="50" height="31" viewBox="0 0 50 31" fill="none">
+      <g opacity="0.3" filter="url(#filter-green)">
+        <path d="M5 26L10.0704 19.5714L14.5775 25.2857L20.7746 6L24.7183 20.2857L28.662 12.4286L31.4789 19.5714H34.8592L38.2394 25.2857L45 24.5714" stroke="#116932" />
+      </g>
+    </svg>
+  </div>
+
+     <div class="stat"  style="display: flex; justify-content: space-between; align-items: center; align-self: stretch; padding: var(--u-spacing-5, 20px); border-top: 1px solid rgba(228, 228, 231, 0.40);">
+    <div class="stat-infos">
+      <div class="stat-title">Total Annual Revenue</div>
+      <div class="stat-value text-primary">$12,834</div>
+      <div class="stat-desc">21% more than last month</div>
+    </div>
+    <svg xmlns="http://www.w3.org/2000/svg" width="50" height="31" viewBox="0 0 50 31" fill="none">
+      <g opacity="0.3" filter="url(#filter-green)">
+        <path d="M5 26L10.0704 19.5714L14.5775 25.2857L20.7746 6L24.7183 20.2857L28.662 12.4286L31.4789 19.5714H34.8592L38.2394 25.2857L45 24.5714" stroke="#116932" />
+      </g>
+    </svg>
+  </div>
+</div>
